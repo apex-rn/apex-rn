@@ -7,6 +7,11 @@ methods with an emphasis on reproducible evaluation.
 
 ## Projects
 
+**[crypto-vol-forecasting](https://github.com/apex-rn/crypto-vol-forecasting)**
+Pre-registered comparison of machine-learning and econometric next-day volatility forecasts for
+ten Binance perpetual futures. A regularized linear model beats the HAR-RV benchmark on both the
+development period and an untouched validation period (Diebold-Mariano t = -3.96 out of sample).
+
 **[trading-engine](https://github.com/apex-rn/trading-engine)**
 Research and paper-trading infrastructure for Binance perpetual futures. Hypotheses are
 pre-registered and evaluated on fixed development, validation and holdout periods with
